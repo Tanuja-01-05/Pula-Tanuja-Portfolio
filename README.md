@@ -24,6 +24,6 @@ The goal of this website is to provide a clean and responsive platform where vis
 [Click here to view the live site](https://tanuja-01-05.github.io/Pula-Tanuja-Portfolio/)
 
 ## 📧 Contact
-- Email: your-email@example.com  
+- Email: pulatanuja0423@gmail.com  
 - LinkedIn: [Your LinkedIn Profile](#)  
 - GitHub: [tanuja-01-05](https://github.com/tanuja-01-05)
