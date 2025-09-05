@@ -25,5 +25,5 @@ The goal of this website is to provide a clean and responsive platform where vis
 
 ## 📧 Contact
 - Email: pulatanuja0423@gmail.com  
-- LinkedIn: [Your LinkedIn Profile](#)  
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/tanuja-p-08476427b/)  
 - GitHub: [tanuja-01-05](https://github.com/tanuja-01-05)
