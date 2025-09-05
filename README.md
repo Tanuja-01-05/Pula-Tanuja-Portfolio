@@ -31,4 +31,3 @@ This site showcases my projects, skills, and achievements.
 - Email: your-email@example.com  
 - LinkedIn: [Your LinkedIn Profile](#)  
 - GitHub: [tanuja-01-05](https://github.com/tanuja-01-05)
--
